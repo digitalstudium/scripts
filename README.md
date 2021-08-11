@@ -10,4 +10,5 @@ bash cert_generator.sh <domain:required> <passphrase:optional>
 ```
 bash cert_generator.sh localhost
 ```
-Result: localhost.crt and localhost.key files will be saved in the same folder as the script
+### Result
+`<domain>.crt` and `<domain>.key` files will be saved in the same folder as the script
